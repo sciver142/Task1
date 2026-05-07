@@ -20,8 +20,10 @@ Learn the fundamentals of Git and GitHub — the version control tools you will 
 
 | Name | What I want to do at ARK |
 |------|--------------------------|
-| *(your name here)* | *(your goals here)* |
-
+| Kushagra Eshitva | 1.First of all it allows me to follow my passion for aerial objects.|
+                   | 2.As an Aerospace Engineering student at IIT Kharagpur, I want to get real experience beyond classroom theory by working on hands-on projects. |
+                   | 3.I want to contribute regularly, learn from experienced colleagues, and take part in competitions, research projects, and new builds.|
+                   
 ---
 
 *Deadline will be communicated separately. Reach out on the group if you have any doubts.*
